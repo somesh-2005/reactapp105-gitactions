@@ -1,9 +1,12 @@
 import './style.css';
-function App(){
+
+function App() {
   return (
-    <div className='container'>
+    <div className="container">
       <h1>Welcome to My React Project - S105</h1>
-      <p>This is a single language </p>
+      <p>This is a simple homepage deployed on GitHub Pages using Vite.</p>
     </div>
-  )
+  );
 }
+
+export default App;
